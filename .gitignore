@@ -1,0 +1,16 @@
+### Gradle template
+.gradle
+build/
+
+
+### Maven template
+target/
+
+
+# IntelliJ data
+*.iml
+.idea/
+.ipr
+/out/
+
+.DS_Store
